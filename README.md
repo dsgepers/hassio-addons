@@ -10,7 +10,7 @@ This repository collects all of my Hass.io add-ons for easier installation.
 
 Follow [the official instructions](https://home-assistant.io/hassio/installing_third_party_addons/) on the Home Assistant website and use the following URL:
 ```txt
-https://github.com/danielwelch/hassio-addons
+https://github.com/dsgepers/hassio-addons
 ```
 
 ## Add-ons provided by this repository
@@ -27,7 +27,7 @@ Upload your Hass.io backups to Dropbox.
 
 [:books: Dropbox Sync add-on documentation][addon-dropbox-sync]
 
-[addon-dropbox-sync]: https://github.com/danielwelch/hassio-dropbox-sync
+[addon-dropbox-sync]: https://github.com/dsgepers/hassio-dropbox-sync
 [dropbox-sync-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg?style=flat
 [dropbox-sync-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg?style=flat
 [dropbox-sync-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg?style=flat
